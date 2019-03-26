@@ -1,8 +1,5 @@
-#	Book Title:	Hands-On Network Forensics
-# 	Author: 		Nipun Jaswal
 # 	Chapter:		10 
-
-#	Required Softwares & OS:
+##	Required Softwares & OS:
 
 - Wireshark v3.0.0 installed on Windows 10 OS/ Ubuntu 14.04
 - Scapy installed (pip install scapy) on Ubuntu 14.04/ Windows 10
