@@ -1,0 +1,11 @@
+
+192.168.174.152 - - [30/Dec/2018:08:14:51 -0500] "GET / HTTP/1.1" 200 3410 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+192.168.174.152 - - [30/Dec/2018:08:14:51 -0500] "GET /icons/openlogo-75.png HTTP/1.1" 200 6040 "http://192.168.174.157/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+192.168.174.152 - - [30/Dec/2018:08:14:51 -0500] "GET /favicon.ico HTTP/1.1" 404 506 "http://192.168.174.157/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+192.168.174.152 - - [30/Dec/2018:08:14:55 -0500] "GET /site HTTP/1.1" 301 581 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+192.168.174.152 - - [30/Dec/2018:08:14:55 -0500] "GET /site/ HTTP/1.1" 403 511 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+192.168.174.152 - - [30/Dec/2018:08:14:58 -0500] "GET /site/ HTTP/1.1" 403 511 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+192.168.174.152 - - [30/Dec/2018:08:15:42 -0500] "-" 408 0 "-" "-"
+192.168.174.152 - - [30/Dec/2018:08:16:15 -0500] "GET /php-utility-belt/ HTTP/1.1" 200 1201 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+192.168.174.152 - - [30/Dec/2018:08:16:15 -0500] "GET /php-utility-belt/assets/application.js HTTP/1.1" 200 1134 "http://192.168.174.157/php-utility-belt/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+192.168.174.152 - - [30/Dec/2018:08:17:07 -0500] "-" 408 0 "-" "-"
