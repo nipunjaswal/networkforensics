@@ -1,4 +1,4 @@
-# 	Chapter:2 - Deep Packet Inspection
+# 	Chapter:3 - Deep Packet Inspection
 ##	Required Softwares & OS:
 
 - Wireshark v3.0.0 (https://www.wireshark.org/download.html) installed on Windows 10 OS / Ubuntu 14.04
