@@ -6,5 +6,5 @@
 - VMWare Player/ VirtualBox installation with Kali Operating system installed, You can download it from https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
 - Aircrack-ng Suite (Already a part of Kali Linux)
 - An external wireless card (TP-Link WN722N/ Alfa card)
-- ython (Already installed on Kali Linux) 
+- Python (Already installed on Kali Linux) 
 
